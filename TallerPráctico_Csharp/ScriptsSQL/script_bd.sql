@@ -4,3 +4,4 @@ GO
 USE [taller_practico];
 GO
 
+
